@@ -3,8 +3,6 @@
 We are the Scientific Computing Laboratory in the Department of Computer Science at the University of Liverpool. We build tools that are useful
 for large-scale scientific computing on HPC or Cloud systems. 
 
-We are an offshoot from the https://github.com/devitocodes/devito organisation, at the University of Liverpool. 
-
 Contact:
 Navjot Kukreja
 
